@@ -1,6 +1,6 @@
 # Hey, I'm Chris 👋
 
-Polyglot technologist with a focus on offensive security, infrastructure, and creative problem-solving. I like building tools that are useful, minimal, and a little unconventional — and I'm always tinkering with something new.
+Polyglot technologist with a focus on offensive security, infrastructure, and creative problem-solving. I like building tools that are useful, minimal, and a little unconventional, and I'm always tinkering with something new.
 
 **Interests:** offensive security, solar-powered hardware, small web, opsec, infosec, GRC, open source, software-defined radio, OS development
 
