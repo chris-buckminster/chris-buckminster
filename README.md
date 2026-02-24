@@ -18,6 +18,8 @@ Here are a few things I've been working on. Most of my projects are in private r
 
 **[HN Daily Digest](https://github.com/chris-buckminster/hn-daily-digest)** — Generates a daily PDF of the top 10 Hacker News posts with article content and top comments.
 
+**[Pine & Ash](https://github.com/chris-buckminster/pine_and_ash)** — Turn-based RPG combat prototype built in Godot 4, set in a post-blight Maine wasteland.
+
 **[python-image-ascii](https://github.com/chris-buckminster/python-image-ascii)** — Command-line tool to generate ASCII art from any given image.
 
 ---
