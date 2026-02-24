@@ -22,12 +22,4 @@ Here are a few things I've been working on. Most of my projects are in private r
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-buckminster&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-buckminster&layout=compact)
-
----
-
 Feel free to reach out — I'm always happy to connect. Find me on [LinkedIn](https://linkedin.com/in/chrisbuckminster) or at chris@buckminster.io
