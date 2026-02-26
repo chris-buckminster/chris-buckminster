@@ -20,7 +20,7 @@ Here are a few things I've been working on. Most of my projects are in private r
 
 **[Pine & Ash](https://github.com/chris-buckminster/pine_and_ash)** — Turn-based RPG combat prototype built in Godot 4, set in a post-blight Maine wasteland.
 
-**[python-image-ascii](https://github.com/chris-buckminster/python-image-ascii)** — Command-line tool to generate ASCII art from any given image.
+**[Coreguard](https://github.com/chris-buckminster/coreguard)** — DNS-based ad and tracker blocker for macOS. Runs a local DNS server with encrypted upstream resolution and auto-updating filter lists.
 
 ---
 
