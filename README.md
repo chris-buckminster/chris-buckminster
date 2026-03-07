@@ -18,7 +18,7 @@ Here are a few things I've been working on. Most of my projects are in private r
 
 **[HN Daily Digest](https://github.com/chris-buckminster/hn-daily-digest)** — Generates a daily PDF of the top 10 Hacker News posts with article content and top comments.
 
-**[Pine & Ash](https://github.com/chris-buckminster/pine_and_ash)** — Turn-based RPG combat prototype built in Godot 4, set in a post-blight Maine wasteland.
+**[StorageBlip](https://github.com/chris-buckminster/storage_blip)** — macOS menubar app showing boot drive disk usage as a circular gauge. Pre-built universal binary available.
 
 **[Coreguard](https://github.com/chris-buckminster/coreguard)** — DNS-based ad and tracker blocker for macOS. Runs a local DNS server with encrypted upstream resolution and auto-updating filter lists.
 
