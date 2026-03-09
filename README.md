@@ -16,7 +16,7 @@ Here are a few things I've been working on. Most of my projects are in private r
 
 **[LinkedIn AI Detector](https://github.com/chris-buckminster/linkedin-ai-detector)** — Chrome extension that scores LinkedIn posts for likelihood of being AI-generated using heuristic pattern matching.
 
-**[HN Daily Digest](https://github.com/chris-buckminster/hn-daily-digest)** — Generates a daily PDF of the top 10 Hacker News posts with article content and top comments.
+**[Fetch](https://github.com/chris-buckminster/fetch)** — Polished Windows desktop GUI for yt-dlp. Download videos and audio with a concurrent queue, playlist support, and a clean modern interface. Built with Tauri v2, React, and Rust.
 
 **[StorageBlip](https://github.com/chris-buckminster/storage_blip)** — macOS menubar app showing boot drive disk usage as a circular gauge. Pre-built universal binary available.
 
